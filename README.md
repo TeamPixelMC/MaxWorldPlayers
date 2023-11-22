@@ -14,10 +14,6 @@ This plugin allows the setting of max players for each Minecraft world you have.
 
 Use the `/setmaxplayers {amount}` to set the maximum amount of players for the world you are in.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](link-to-contributing-guidelines) for details on our code of conduct, and the process for submitting pull requests.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
