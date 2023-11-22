@@ -6,7 +6,7 @@ This plugin allows the setting of max players for each Minecraft world you have.
 
 ## Installation
 
-1. Download the JAR file from the [Releases](https://github.com/TeamPixelMC/MaxWorldPlayers/releases/) page.
+1. Download the JAR file from the [Releases](https://github.com/TeamPixelMC/MaxWorldPlayers/releases/) page or on [Spigot](https://www.spigotmc.org/resources/maxworldplayers-1-20.113668/).
 2. Place the JAR file in the `plugins` directory of your Bukkit/Spigot server.
 3. Restart the server.
 
