@@ -20,4 +20,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or feedback, please contact us at our [Development Discord] (https://discord.gg/mZJHGut5EV).
+If you have any questions or feedback, please contact us at our [Development Discord](https://discord.gg/mZJHGut5EV).
